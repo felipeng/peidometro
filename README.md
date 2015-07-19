@@ -1,4 +1,4 @@
-# peidometro
+# peidômetro
 
 ![peidômetro](/images/peidometro.png)
 
